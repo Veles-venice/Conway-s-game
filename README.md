@@ -29,7 +29,8 @@ python Gprac.py
  
 👤 Author
 Veles-venice
-Your local cyberpunk bug-fighter | Building, breaking, and learning
+Your local cyberpunk bug-fighter | Building, breaking, and learning.
+
 🧢 A little about me:
 Self-taught learner grinding through the basics — just above beginner.
 Exploring Python, GitHub, Neovim, Linux, Frontend and the art of asking “Why is it broken again?”
