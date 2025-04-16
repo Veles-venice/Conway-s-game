@@ -24,13 +24,7 @@ Each generation prints a new frame in your terminal. Kinda hypnotic(Maybe). Kind
 ```bash
 python Gprac.py
 
-
-
-
-
-
-
- ----
+```
 
  
 👤 Author
